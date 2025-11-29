@@ -44,10 +44,14 @@ fact_sales
 
 ⭐ Dimension Tables
 
-Table                       	Description
-dim_customers	                Customer profile, age, location, segments
+Table                             Description
+
+dim_customers                     Customer profile, age, location, segments
+
 dim_products	                Product category, price, cost
-dim_date	                    Calendar table for time intelligence
+
+dim_date	                         Calendar table for time intelligence
+
 dim_segments	                Customer segmentation logic
 
 🧠 Key Modeling Concepts Used
