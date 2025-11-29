@@ -7,11 +7,16 @@ It showcases real skills recruiters look for in Data Analyst & BI Analyst roles.
 
 ⭐ PROJECT HIGHLIGHTS
 
-✔ Built a complete SQL Data Warehouse
+✔ Built a complete SQL Data Warehouse 
+
 ✔ Designed ETL pipeline (Extract → Transform → Load)
+
 ✔ Implemented Fact & Dimension tables (Star Schema)
+
 ✔ Created 3 professional Power BI dashboards
+
 ✔ Used DAX measures, relationships, and modeling
+
 ✔ Delivered actionable business insights
 
 This project clearly shows competence in SQL, ETL, data modeling, DAX, and Power BI — the essential BI toolset.
