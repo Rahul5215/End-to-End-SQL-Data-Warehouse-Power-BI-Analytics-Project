@@ -1,9 +1,7 @@
 🚀 End-to-End SQL Data Warehouse & Power BI Analytics Project
-🔥 A complete Data Analyst + Business Intelligence case study built for real-world hiring portfolios.
 
 This project demonstrates a full modern BI workflow — from raw data → SQL data warehouse → ETL → star schema modeling → Power BI dashboards.
 
-It showcases real skills recruiters look for in Data Analyst & BI Analyst roles.
 
 ⭐ PROJECT HIGHLIGHTS
 
@@ -19,14 +17,12 @@ It showcases real skills recruiters look for in Data Analyst & BI Analyst roles.
 
 ✔ Delivered actionable business insights
 
-This project clearly shows competence in SQL, ETL, data modeling, DAX, and Power BI — the essential BI toolset.
 
 🧱 Architecture Overview
 Raw Data → Staging Tables → Data Cleaning & Transformation
          → Fact & Dimension Tables (Star Schema)
          → Power BI Dashboards (Product, Customer, Revenue)
 
-🔗 This is the same architecture used in real companies.
  
 🗃️ Data Warehouse Design
 
