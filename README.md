@@ -22,7 +22,9 @@ Raw Data → Staging Tables → Data Cleaning & Transformation
          → Power BI Dashboards (Product, Customer, Revenue)
 
 🔗 This is the same architecture used in real companies.
+ 
 🗃️ Data Warehouse Design
+
 ⭐ Fact Table
 
 fact_sales
@@ -60,6 +62,7 @@ dim_segments	                Customer segmentation logic
 • Relationship Mapping in Power BI
 
 🔄 ETL Pipeline (SQL)
+
 1. Extract
 
 Load raw data into staging tables.
@@ -81,6 +84,7 @@ Populate Fact & Dimension tables in correct order:
 dim_date → dim_products → dim_customers → fact_sales
 
 📊 Power BI Dashboards
+
 1️⃣ Product Performance Dashboard
 
 Business Insights Delivered:
