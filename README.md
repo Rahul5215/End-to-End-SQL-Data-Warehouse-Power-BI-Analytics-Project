@@ -166,6 +166,3 @@ Insights:
 
 • Demonstrated full-stack BI capability (SQL → ETL → Model → Dashboard → Insights)
 
-
-
-Just tell me!
